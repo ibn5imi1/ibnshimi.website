@@ -235,7 +235,7 @@ section.heading img {
 }
 /* end about */
 
-/* start footer */
+/* start contact */
 .contact {
     background-color: #fff;
     font-size: 40px;
@@ -253,5 +253,15 @@ section.heading img {
 .contact .myAcounts {
     text-align: center;
     margin-top: 20px;
+}
+/* end contact */
+
+/* start footer */
+footer {
+    background-color: #2c3e50;
+    color: #fff;
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
 }
 /* end footer */
