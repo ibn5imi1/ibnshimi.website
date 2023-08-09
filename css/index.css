@@ -164,28 +164,7 @@ section.heading img {
     margin-top: 15px;
 }
 .protfolio .projects .project {
-    text-align: center;
-    background-image: url('../imgs/images.jpg');
-    background-size: cover;
-    height: 200px;
-    width: 280px;
-    margin: 20px;
-}
-.protfolio .projects .project .projectName {
-    display: none;
-    background-color: rgba(0, 0, 0, 0.696);
-    width: 80%;
-    height: 100%;
-    color: #fff;
-    line-height: 80px;
-    margin: auto;
-}
-.protfolio .projects .project .projectName a {
-    text-decoration: none;
-    color: #fff;
-}
-.protfolio .projects .project:hover .projectName {
-    display: block;
+    margin: 10px;
 }
 /* end protfolio */
 
